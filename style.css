@@ -127,10 +127,11 @@ letter-spacing:3px;
   color:aliceblue;
 }
 .logo{
-  height: 70px;
+ width:25px;
+ height:25px;
 }
 
 .project{
-  height:24%;
-  width:30%;
+  height:23%;
+  width:23%;
 }
